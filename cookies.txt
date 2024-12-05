@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+faithfutures5.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1733368765|zkP2ubDn7K98
+faithfutures5.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+faithfutures5.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=none
+
